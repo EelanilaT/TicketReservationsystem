@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{B267EA64-1D5D-43EB-8BA4-8F49AA3721D2}|https">
+  <MonoDevelop.Ide.ItemProperties.TicketReservationWebClient FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TicketReservationWebService PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>
