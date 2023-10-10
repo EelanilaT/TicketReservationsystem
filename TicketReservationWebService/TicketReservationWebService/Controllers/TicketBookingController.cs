@@ -4,7 +4,7 @@ using TicketReservationWebService.Services;
 
 namespace TicketReservationWebService.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/ticketBookings")]
     [ApiController]
     public class TicketBookingController : ControllerBase
     {
